@@ -1,7 +1,7 @@
 Hi there, I'm Umar Farooq 👋
 
 I'm a passionate developer focused on **Web and Mobile App Development**.  
-Currently diving deep into **React**, and always looking for opportunities to learn and grow.
+Currently diving deep into **MERN**, and always looking for opportunities to learn and grow.
 
 - 🔭 I’m working on exciting web and mobile projects  
 - 🌱 I’m currently learning **React**  
